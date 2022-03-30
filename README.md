@@ -7,7 +7,8 @@
 
 
 -----------------------------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioid&theme=dark&show_icons=true&custom_title=Stats&line_height=27)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioid&theme=dark&custom_title=Linguagens&card_width=400)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioid&theme=dark&show_icons=true&custom_title=Stats&line_height=27)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioid&theme=dark&custom_title=Linguagens&card_width=444&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <div>
