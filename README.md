@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor Back-End Jr
-- 🌱 Estudando Java
+- 🌱 Estudando Python | Django
 - 📫 Contate-me no e-mail: kaioigordinizz@gmail.com
 
 
