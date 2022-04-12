@@ -1,7 +1,7 @@
 ### Olá, eu sou o Kaio 👋
 
 
-- 🔭 Desenvolvedor Back-End Jr
+- 🔭 Desenvolvedor Back-End
 - 🌱 Estudando Python | Django
 - 📫 Contate-me no e-mail: kaioigordinizz@gmail.com
 
