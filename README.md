@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor Back-End
-- 🌱 Estudando Python | Django
+- 🌱 Estudando Java
 
 
 <hr>
