@@ -9,7 +9,6 @@
 
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioid&theme=dark&show_icons=true&count_private=true&custom_title=Stats&line_height=20) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioid&theme=dark&custom_title=Linguagens&card_width=444&line_height=100&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align="center">
