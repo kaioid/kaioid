@@ -8,10 +8,6 @@
 <hr>
 
 <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioid&theme=dark&custom_title=Linguagens&card_width=444&line_height=100&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div align="center">
   <img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/96/000000/django.png"/>
   <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
