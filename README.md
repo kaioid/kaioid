@@ -1,22 +1,19 @@
 ### Olá, eu sou o Kaio 👋
 
 
-- 🔭 Desenvolvedor Back-End
-- 🌱 Estudando Java
+- 🔭 Desenvolvedor Fullstack
+- 🌱 Estudando TypeScript
 
 
 <hr>
 
-<div align="center">
-  <img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/96/000000/django.png"/>
-  <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
-</div>
-<br>
+<p align="center">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,angular,nodejs,express,mongodb" />
+  </a>
+</p>
+
 <hr>
 <div align="center">
   
