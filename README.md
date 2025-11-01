@@ -1,7 +1,7 @@
 ### Olá, eu sou o Kaio 👋
 
 
-- 🌱 Estudando TypeScript
+- 🌱 Desenvolvedor Fullstack
 
 
 <hr>
